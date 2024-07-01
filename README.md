@@ -16,4 +16,4 @@
 -The parts of the code which utilized functions and their prototypes highlight skills and knowledge which will be useful in most programs that I am required to write in the future.
 
 # How did you make this program maintainable, readable, and adaptable?
-With incremental changes. Write a small amount of code, then compile and run. Rinse and repeat.
+-With incremental changes. Write a small amount of code, then compile and run. Rinse and repeat.
